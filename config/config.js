@@ -4,9 +4,9 @@ module.exports = {
 	mysqlconfig: {
 		host: 'localhost',
 		user: 'root',
-		password : 'admin',
+		password : 'a9911',
 		port : 3306,
-		database:'fgh'
+		database:'empdb'
 	},
 	mailconfig: {
 		service: 'Gmail',
